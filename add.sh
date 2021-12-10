@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "enter the integer value for num1"
+echo "enter the integer value for num1" #2sachin
 read num1
 echo "enter the integer value for num2 other then num1"
 read num2
